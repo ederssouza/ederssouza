@@ -6,6 +6,4 @@ Front-End Developer at [99 Tecnologia](https://99app.com).
 [![GitHub ederssouza](https://img.shields.io/github/followers/ederssouza?label=follow&style=social)](https://github.com/ederssouza)
 [![GitHub ederssouza](https://img.shields.io/github/stars/ederssouza?style=social)](https://github.com/ederssouza)
 
-### ⚡ Technologies
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ederssouza&layout=compact)](https://github.com/ederssouza/github-readme-stats)
