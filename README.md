@@ -1,5 +1,7 @@
 ## Hi, I'm Eder Sampaio! 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ederssouza&color=yellow" alt="Profile views" /> </p>
+
 Front-End Developer.
 
 ### You can reach me at
