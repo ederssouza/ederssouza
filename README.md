@@ -22,9 +22,9 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">  
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> 
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg">  
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
