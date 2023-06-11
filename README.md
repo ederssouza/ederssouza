@@ -112,13 +112,11 @@
 </div><br />
 
 <h2 align='center'>
-  Github stats
+  GitHub stats
 </h2>
 
 <p align='center'>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ederssouza&theme=nord_bright" height="200px" />
-
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ederssouza&theme=nord_bright&" height="205px" />
-
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ederssouza&theme=nord_bright" height="205px" />
 </p>
