@@ -8,7 +8,7 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/ederssouza/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/ederssouza"><img src="https://img.shields.io/badge/github-AAAAAA.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ederssouza"><img src="https://img.shields.io/badge/github-25292f.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p><br />
 
 <h2 align='center'>
