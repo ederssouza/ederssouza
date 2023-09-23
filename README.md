@@ -1,4 +1,4 @@
-<h1 align='center'>
+<h1 align='center' style='color: #000'>
   Hi there 👋, I'm Eder Sampaio 👨🏻‍💻
 </h1>  
 
@@ -11,7 +11,7 @@
   <a href="https://github.com/ederssouza"><img src="https://img.shields.io/badge/github-25292f.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p><br />
 
-<h2 align='center'>
+<h2 align='center' style='color: #000'>
   Languages and tools
 </h2>
 
@@ -34,7 +34,7 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
 </p><br />
 
-<h2 align='center'>
+<h2 align='center' style='color: #000'>
   Open source projects
 </h2>
 
@@ -111,7 +111,7 @@
   </table>
 </div><br />
 
-<h2 align='center'>
+<h2 align='center' style='color: #000'>
   GitHub stats
 </h2>
 
